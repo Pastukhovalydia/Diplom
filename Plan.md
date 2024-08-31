@@ -97,10 +97,10 @@
 **Сценарии, которые не будут автоматизированы:**
   *Причина* - Тесты не прошли из-за ошибки в функциональности. Требуется доработка перед автоматизацией:
   - **Просмотр политики конфиденциальности** (ID тест-кейсов: 30, 31) 
-[Баг-репорт](https://github.com/Pastukhovalydia/Diplom/issues/3#issue-249880626)
-[Баг-репорт](https://github.com/Pastukhovalydia/Diplom/issues/2#issue-2498803658)
+    - [Баг-репорт ID-31](https://github.com/Pastukhovalydia/Diplom/issues/3#issue-249880626)
+    - [Баг-репорт ID-30](https://github.com/Pastukhovalydia/Diplom/issues/2#issue-2498803658)
   - **Переход в раздел "О приложении" через раздел "Новости"** (ID тест-кейса:23)
-[Баг-репорт](https://github.com/Pastukhovalydia/Diplom/issues/1#issue-2498801219)
+    - [Баг-репорт ID-23](https://github.com/Pastukhovalydia/Diplom/issues/1#issue-2498801219)
 
 #### 8. Устройства для тестирования
 
